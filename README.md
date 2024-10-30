@@ -1,4 +1,4 @@
-<h2 align="center">👤 Về Tôi - Phạm Công Tiến</h2>
+<h2 align="center">👤  Phạm Công Tiến</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b556bc13-db33-4027-82cc-f3d6c72b7817" alt="Ảnh đại diện của tôi" width="600" height="350">
